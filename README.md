@@ -6,3 +6,5 @@ first one commit
 another one
 
 third one with also with amend
+
+This is Luca amending a Gerrit Change from Codenvy
